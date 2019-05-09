@@ -1,3 +1,6 @@
+## Rework t-rex runner into a react or vue component.
+After forking t-rex runner the goal is to create a t-rex loadscreen component that all react applications can install as a nodemodule.
+
 ## t-rex-runner
 
 the trex runner game extracted from chrome offline err page.
